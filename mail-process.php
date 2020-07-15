@@ -27,7 +27,7 @@ $mail->Host = "smtp.gmail.com";
 $mail->Port = '465';
 $mail->AddAddress($mailid);
 $mail->Username ="fabcutsofficial@gmail.com";
-$mail->Password ="password@123";
+$mail->Password ="fabcuts101ga";
 $mail->SetFrom('fabcutsofficial@gmail.com','Team FabCuts');
 $mail->AddReplyTo("fabcutsofficial@gmail.com","Team FabCuts");
 $mail->Subject = $subject;
